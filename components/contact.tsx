@@ -53,14 +53,14 @@ export function Contact() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Button asChild variant="outline" className="flex-1 bg-transparent">
-                <a href="mailto:yashvi@example.com" className="flex items-center justify-center">
+                <a href="mailto:yashvipatel070105@gmail.com" className="flex items-center justify-center">
                   <Mail className="h-5 w-5 mr-2" />
                   Email Me
                 </a>
               </Button>
               <Button asChild variant="outline" className="flex-1 bg-transparent">
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/yashvipatel0705/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center"
@@ -71,7 +71,7 @@ export function Contact() {
               </Button>
               <Button asChild variant="outline" className="flex-1 bg-transparent">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/yashvi9705"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center"
@@ -141,9 +141,9 @@ export function Contact() {
         </div>
 
         <div className="text-center mt-16 pt-8 border-t border-border">
-          <p className="text-muted-foreground">© 2025 Yashvi Patel. Built with Next.js and Tailwind CSS.</p>
+          <p className="text-muted-foreground">© 2025 Yashvi Patel.</p>
         </div>
       </div>
-    </section>
+    </section>  
   )
 }

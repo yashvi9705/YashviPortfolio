@@ -20,7 +20,14 @@ const skillCategories = [
   },
   {
     title: "FrontEnd",
-    skills: ["HTML", "CSS", "Bootstrap", "TailwindCSS", "Next.js", "React.js", "Flutter"],
+    skills: [
+      "HTML", 
+      "CSS", 
+      "Bootstrap", 
+      "TailwindCSS",
+      "Next.js", 
+      "React.js", 
+      "Flutter"],
   },
   {
     title: "BackEnd",
@@ -50,57 +57,6 @@ const skillCategories = [
       "Gap Analysis",
       "KPI Development",
       "User Stories",
-    ],
-  },
-  {
-    title: "Technical Support & Systems",
-    skills: [
-      "Technical Troubleshooting",
-      "System Administration",
-      "Help Desk Support",
-      "Network Support",
-      "Database Management",
-      "Quality Assurance",
-      "User Training",
-      "Incident Management",
-    ],
-  },
-  {
-    title: "Project Management & Tools",
-    skills: [
-      "Project Coordination",
-      "Agile/Scrum",
-      "Confluence",
-      "MS Office Suite",
-      "Timeline Management",
-      "Resource Planning",
-      "Risk Assessment",
-    ],
-  },
-  {
-    title: "Documentation & Communication",
-    skills: [
-      "Technical Writing",
-      "Process Documentation",
-      "User Manuals",
-      "API Documentation",
-      "Training Materials",
-      "Presentation Skills",
-      "Cross-functional Communication",
-      "Report Writing",
-    ],
-  },
-  {
-    title: "Core Competencies",
-    skills: [
-      "Problem Solving",
-      "Critical Thinking",
-      "Team Collaboration",
-      "Client Relations",
-      "Adaptability",
-      "Time Management",
-      "Attention to Detail",
-      "Leadership",
     ],
   },
 ]
