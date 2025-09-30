@@ -58,9 +58,8 @@ export function About() {
 
           <div className="relative">
             <div className="aspect-square bg-gradient-to-br from-primary/20 to-accent/20 rounded-2xl flex items-center justify-center">
-              <div className="w-64 h-64 bg-muted rounded-full flex items-center justify-center">
-                <User className="h-32 w-32 text-muted-foreground" />
-              </div>
+              <img src="/profileimg.jpeg" alt="Yashvi Patel" className="object-cover" />
+              
             </div>
           </div>
         </div>

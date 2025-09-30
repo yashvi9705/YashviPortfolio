@@ -49,17 +49,17 @@ export function Hero() {
 
             <div className="flex items-center gap-4">
               <Button variant="outline" size="icon" asChild>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/yashvi9705" target="_blank" rel="noopener noreferrer">
                   <Github className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="outline" size="icon" asChild>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/yashvipatel0705/" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="outline" size="icon" asChild>
-                <a href="mailto:yashvi@example.com">
+                <a href="mailto:yashvipatel070109@gmail.com">
                   <Mail className="h-5 w-5" />
                 </a>
               </Button>
