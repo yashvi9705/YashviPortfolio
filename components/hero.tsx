@@ -42,9 +42,13 @@ export function Hero() {
               <ArrowDown className="ml-2 h-5 w-5" />
             </Button>
 
-            <Button variant="outline" size="lg" className="text-lg px-8 py-3 bg-transparent">
-              <Download className="mr-2 h-5 w-5" />
-              Download CV
+            <Button variant="outline" size="lg" className="text-lg px-8 py-3 bg-transparent" asChild>
+              {/* <Download className="mr-2 h-5 w-5" />
+              Download CV */}
+              <a href="/Yashvi_Resume.pdf" download> 
+                <Download className="mr-2 h-5 w-5" /> 
+                Download CV      
+              </a>
             </Button>
 
             <div className="flex items-center gap-4">
